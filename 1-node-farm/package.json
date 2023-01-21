@@ -12,6 +12,6 @@
     "nodemon": "^2.0.20"
   },
   "dependencies": {
-    "slugify": "^1.0.2"
+    "slugify": "^1.6.5"
   }
 }
