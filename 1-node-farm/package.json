@@ -1,17 +1,17 @@
 {
   "name": "node-farm",
   "version": "1.0.0",
-  "description": "Learning node.js",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "Jonas Schmedtmann",
+  "author": "",
   "license": "ISC",
-  "dependencies": {
-    "slugify": "~1.3.4"
-  },
   "devDependencies": {
-    "nodemon": "^1.18.11"
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "slugify": "^1.0.2"
   }
 }
