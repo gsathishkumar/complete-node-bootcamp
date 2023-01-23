@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "superagent": "^5.0.2"
+    "superagent": "^8.0.8"
   }
 }
